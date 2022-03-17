@@ -1,0 +1,6 @@
+venv
+.vscode
+__pycache__/
+auth/*
+app/testing.log
+*.pyc
