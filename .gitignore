@@ -1,6 +1,8 @@
 venv
 .vscode
 __pycache__/
-auth/*
+auth/credentials.json
+auth/token.json
 app/testing.log
 *.pyc
+.env
