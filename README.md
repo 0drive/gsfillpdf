@@ -1,5 +1,5 @@
 # gsfillpdf
-Automatically template PDFs with data from Google Sheets.
+Automatically fill template PDFs with data from Google Sheets.
 
 Example sheet and pdf here: https://drive.google.com/drive/folders/15D3r6sVeow_rz40H6ZIK0x_bdpz52yT_?usp=sharing
 
